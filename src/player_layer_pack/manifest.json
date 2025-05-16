@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "冷剑附包",
+        "description": "添加玩家美丽的Layer",
+        "version": "0.1.0-dev",
+        "min_engine_version": [1, 21, 60],
+        "uuid": "c3e599a5-b945-4dc4-8041-a38e7adc748c",
+        "pack_scope": "world"
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "version": "0.1.0-dev",
+            "uuid": "ae81ff71-444d-4305-9c96-c46ff3968793"
+        }
+    ]
+}

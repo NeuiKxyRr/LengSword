@@ -1,0 +1,31 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "冷剑",
+        "description": "诞于宇宙寂冷\n无名无氏者挥动天寂\n可击杀万物与抵御一切",
+        "uuid": "121e138e-cdd1-4b16-8c99-5d38e106b66a",
+        "version": "0.0.1-dev",
+        "min_engine_version": [1, 21, 60],
+        "pack_scope": "world"
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "9b22e9c4-2b77-40b8-a5c8-4b42c986f56d",
+            "version": "0.0.1-dev"
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "f6786ba4-7adb-44e0-ade6-f7b4396d5ef6",
+            "version": "0.0.1-dev"
+        },
+        {
+            "uuid": "c3e599a5-b945-4dc4-8041-a38e7adc748c",
+            "version": "0.0.1-dev"
+        }
+    ],
+    "capabilities": [
+        "pbr"
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.entity.empty": {
+            "loop": true,
+            "animation_length": 10000,
+            "bones": {
+                "root": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "head": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "baseplate": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "waist": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "body": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts0": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts1": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts2": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts3": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts4": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts5": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts6": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts7": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts8": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts9": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts10": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "upperBodyParts11": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "outerglass": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "base": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "neck": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "wing": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "wingtip": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "section_2": {
+                    "rotation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            }
+        }
+    }
+}

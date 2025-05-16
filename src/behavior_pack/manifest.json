@@ -1,0 +1,42 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "冷剑",
+        "description": "诞于宇宙寂冷\n无名无氏者挥动天寂\n可击杀万物与抵御一切",
+        "uuid": "f6786ba4-7adb-44e0-ade6-f7b4396d5ef6",
+        "version": "0.0.1-dev",
+        "min_engine_version": [1, 21, 60]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "eae8c90b-5553-4cb7-8de3-9f1e4c5d7f2b",
+            "version": "0.0.1-dev"
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "e5371666-10ea-4c2b-8947-07961147831a",
+            "version": "0.0.1-dev",
+            "entry": "main.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.18.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.3.0"
+        },
+        {
+            "module_name": "@minecraft-net",
+            "version": "1.0.0-beta"
+        },
+        {
+            "uuid": "121e138e-cdd1-4b16-8c99-5d38e106b66a",
+            "version": "0.0.1-dev"
+        }
+    ]
+}
