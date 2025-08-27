@@ -47,7 +47,7 @@ export default class MsHelper {
      * @param {Function} func 
      * @returns {boolean}
      */
-    isNativeFunction(func) {
+    static isNativeFunction(func) {
         if (typeof func === "function" && func.toString().include("[native code]")) return true;
         return false;
     }
@@ -57,7 +57,7 @@ export default class MsHelper {
      * @param {object} obj 
      * @returns {string[]}
      */
-    getAllFunction(obj) {
+    static getAllFunction(obj) {
         let prototype = Object.getPrototypeOf(obj);
         const result = [];
         while(prototype) {
@@ -70,5 +70,14 @@ export default class MsHelper {
             prototype = Object.getPrototypeOf(prototype);
         }
         return result;
+    }
+
+    /**
+     * 判断是否为对象
+     * @param {any} target 
+     * @returns {boolean}
+     */
+    static isObject(target) {
+        return target !== null && typeof target === "object" && Object.prototype.toString.call(target) === "[object Object]";
     }
 }
